@@ -1,4 +1,4 @@
-### Clase 11
+# Clase 11
 
 - En una aplicacion de react crear:
 
@@ -63,6 +63,8 @@ const perros = [
 - El formulario debe estar validado
 - Al pasar la validacion remplazar los botones del navbar con el nombre de
   usuario
+
+# Clase 12
 
 ## Grados centígrados
 
